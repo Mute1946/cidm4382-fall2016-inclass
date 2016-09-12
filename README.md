@@ -7,3 +7,5 @@ git commit -m "first commit"
 git remote add origin git@github.com:Mute1946/cidm4382-fall2016-inclass.git
 git push -u origin master
 ```
+
+https://cidm4382-fall2016-inclass-timsellmyer.c9users.io
